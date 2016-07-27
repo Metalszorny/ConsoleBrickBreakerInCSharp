@@ -1,4 +1,4 @@
-# ConsoleBrickBreakerInCSharp
+# ConsoleBrickBreakerInVisualCSharp
 =============================
 
 
@@ -9,7 +9,7 @@ A console character based brick breaker game.
 
 Used languages:
 ---------------
-- C#
+- Visual C#
 
 
 Features:
